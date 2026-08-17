@@ -21,6 +21,5 @@ Projects
 SaaS Manual QA Validation
 
 [Contact]
-LinkedIn
-Upwork
-Email
+LinkedIn - https://www.linkedin.com/in/nathan-sheasby-6605021a7/,
+Upwork - https://www.upwork.com/freelancers/~01181800e30bd28123?mp_source=share
