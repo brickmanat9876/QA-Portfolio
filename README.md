@@ -1,9 +1,9 @@
-Nathan Sheasby — QA & Software Validation Portfolio
+  Nathan Sheasby — QA & Software Validation Portfolio
 
-Manual QA Tester | Software Validation | TestRail | Jira | Postman
-
-
-
+  Manual QA Tester | Software Validation | TestRail | Jira | Postman
+|
+|
+|
 
 Skills:
 
