@@ -2,6 +2,9 @@ Nathan Sheasby — QA & Software Validation Portfolio
 
 Manual QA Tester | Software Validation | TestRail | Jira | Postman
 
+
+
+
 Skills:
 
 Manual Testing,
